@@ -1,0 +1,19 @@
+.nav {
+  background-color: #666;
+  color: #fff;
+  font-weight: 500;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.wrapper {
+  flex: 0 0 70%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: center;
+}
+.nav p {
+  font-weight: 600;
+  font-size: 18px;
+}
